@@ -1,3 +1,10 @@
+## ENV FILE
+
+You will need to make .env variable file where you will store you API key and ENV type.
+Create .env file with the following data:
+Examples: API_KEY="123456" 
+NODE_ENV="lorem ipsum"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
