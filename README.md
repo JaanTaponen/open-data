@@ -22,7 +22,6 @@ Yksinkertaistettuna web-sovelluksen toimintaperiaate on hakea DATA puolelta saat
 
 ## UI -hahmotelma
 ![alt-text](https://raw.githubusercontent.com/JaanTaponen/open-data/master/client/ajaxTest/UI-mockup.png?token=AJZEUFQFZG7O6IZN22EI45S4ZLCVG)
-
 # Kansiorakenne 
 
 ## Client kansio
