@@ -17,13 +17,14 @@ TODO
 3. SQL kannasta Azure Search lukee ja indeksoi tallennettua dataa ja syöttää sitä rajapinnan kautta webbisovellukselle
 
 ## Websovellus
-TODO: Jaan 
+REACT pohjainen websovellus hakee Azuren REST -rajanpinnan kautta valmiiksi muokatun datan ja näyttää sen sivustolla. Proof of concept
+hahmotelma on löydettävissä kansiosa 
+-client/ajaxTest
 
 # Kansiorakenne 
 
 ## Client kansio
-React clientti, joka hoitaa palvelun välittämisen HTTP/S palvelimelle
-TODO: Jaan 
+Kansio sisältää koko web-sovelluksen lähdekoodin. Tarkempia tietoja löytyy kansion omista README -tiedostoista.
 
 ## Python notebooks
 Python notebooks kansio sisältää Jupyter notebookit, joiden avulla dataputkea orkestroidaan. Notebookeista on piilotettu tunnukset ja salasanat.
@@ -40,4 +41,7 @@ Kansio jakautuu kahteen alikansioon:
 
  # Kehityskohdat
  - Jupyter Notebookien muunto Azure Functioneiksi, jolloin koko dataputki voitaisiin automatisoida ja ajastaa
- TODO: Jaan
+ - React- implementaatio, eli sisällytettään proof of concept malli ajaxTest kansiosta React sovellukseen.
+ - Sovelluksen tyylittäminen (CSS)
+ - Turvallisesti yhdistäminen DATA -puolelle
+ 
