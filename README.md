@@ -45,4 +45,4 @@ Kansio jakautuu kahteen alikansioon:
  - React- implementaatio, eli sisällytettään proof of concept malli ajaxTest kansiosta React sovellukseen.
  - Sovelluksen tyylittäminen (CSS)
  - Turvallisesti yhdistäminen DATA -puolelle
- 
+ - UI-mockupin toteuttaminen
