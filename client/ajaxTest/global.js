@@ -1,3 +1,5 @@
+/*Funktio joka palauttaa käyttämällä connect.php tiedostoa esityksen
+tietokannan hakutuloksesta. */
 function mp_GetData() {
     $.ajax({
         type: "POST",
