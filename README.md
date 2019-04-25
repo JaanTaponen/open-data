@@ -17,9 +17,8 @@ TODO
 3. SQL kannasta Azure Search lukee ja indeksoi tallennettua dataa ja syöttää sitä rajapinnan kautta webbisovellukselle
 
 ## Websovellus
-REACT pohjainen websovellus hakee Azuren REST -rajanpinnan kautta valmiiksi muokatun datan ja näyttää sen sivustolla. Proof of concept
-hahmotelma on löydettävissä kansiosa 
--client/ajaxTest
+REACT pohjainen websovellus hakee Azuren REST -rajanpinnan kautta valmiiksi muokatun datan ja näyttää sen sivustolla. Proof of concept hahmotelma on löydettävissä kansiosa client/ajaxTest
+Yksinkertaistettuna web-sovelluksen toimintaperiaate on hakea DATA puolelta saatavilla oleva data ja näyttää se korttimaisina tuloksina.
 
 # Kansiorakenne 
 
