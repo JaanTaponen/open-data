@@ -21,7 +21,6 @@ REACT pohjainen websovellus hakee Azuren REST -rajanpinnan kautta valmiiksi muok
 Yksinkertaistettuna web-sovelluksen toimintaperiaate on hakea DATA puolelta saatavilla oleva data ja näyttää se korttimaisina tuloksina.
 
 ## UI -hahmotelma
-![alt-text](https://raw.githubusercontent.com/JaanTaponen/open-data/master/client/ajaxTest/UI-mockup.png?token=AJZEUFQFZG7O6IZN22EI45S4ZLCVG)
 ![](./client/ajaxTest/UI-mockup.png)
 # Kansiorakenne 
 
