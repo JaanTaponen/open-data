@@ -22,7 +22,7 @@ Yksinkertaistettuna web-sovelluksen toimintaperiaate on hakea DATA puolelta saat
 
 ## UI -hahmotelma
 
-![](./client/ajaxTest/UI-mockup.png)
+![](client/ajaxTest/UI-mockup.png)
 
 # Kansiorakenne 
 
