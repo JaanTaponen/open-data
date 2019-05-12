@@ -1,5 +1,5 @@
 # Sovelluksen kuvaus
-TODO 
+Suunnittelemme ja toteutamme Avoin Data Tampereen korkeakouluyhteisössä -projektissa korkeakouluyhteisön kurssien tietopankkia, joka kokoaa kurssikuvaukset ja anonyymin kurssipalautteen yhteen paikkaan. Järjestelmään toteutetaan kurssien löydettävyyttä helpottava suositusjärjestelmä, jossa hyödynnetään kurssikuvausten tekstianalyysia ja kurssipalautetta. Projektin ensimmäisessä vaiheessa kehitämme järjestelmää Hervannan kampuksen kurssidatan ympärille. 
 
 # Arkkitehtuuri
 
@@ -22,6 +22,7 @@ Yksinkertaistettuna web-sovelluksen toimintaperiaate on hakea DATA puolelta saat
 
 ## UI -hahmotelma
 ![](client/ajaxTest/UI-mockup.png)
+Vasemmalla vasen-oikea -pyyhkäisyllä toimivaksi ajateltu kurssilistaus ja oikealla oikealle pyyhkäistyjen kurssien lyhytlista. 
 # Kansiorakenne 
 
 ## Client kansio
